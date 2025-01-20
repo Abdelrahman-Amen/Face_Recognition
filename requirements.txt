@@ -1,0 +1,15 @@
+opencv-python
+face-recognition
+face-recognition-models
+dlib
+Pillow
+tqdm
+requests
+proglog
+wincertstore
+urllib3
+imageio
+imageio-ffmpeg
+moviepy
+# cmake==3.25.2
+# dlib==19.24.2
